@@ -1,2 +1,2 @@
 # PZPowerPlantsMod
-A mod for project zomboid that implements interactive power plants.
+As of now the mod posted only spawns an array of generators at a specified location.
