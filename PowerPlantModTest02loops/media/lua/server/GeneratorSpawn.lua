@@ -30,4 +30,4 @@ local function checkForSpawns(gs)
     end
 end
 
-Events.LoadGridsquare.Add(checkForSpawns)
+-- Events.LoadGridsquare.Add(checkForSpawns)
